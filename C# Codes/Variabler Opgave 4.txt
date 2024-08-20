@@ -1,6 +1,0 @@
-Double Kage = 23.56;
-Double ØL = 34.67;
-Double Pølse = 65.34;
-
-Console.WriteLine("Kage {0} Øl {1} Pølse {2}",Kage, ØL, Pølse);
-Console.WriteLine("I alt {0}", Kage + ØL + Pølse);
