@@ -1,0 +1,5 @@
+string N1 = "Jeg har ";
+string N2 = "200.50 ";
+string N3 = "kr. I banken";
+
+Console.WriteLine("{0}{1}{2}", N1, N2, N3);

@@ -1,0 +1,6 @@
+Console.WriteLine("Skriv navn:");
+String Navn = Console.ReadLine();
+Console.WriteLine("Skriv Alder:");
+String Alder = Console.ReadLine();
+
+Console.WriteLine("Jeg hedder {0} og er {1} år gammel.", Navn, Alder);
