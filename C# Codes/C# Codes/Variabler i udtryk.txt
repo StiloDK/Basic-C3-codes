@@ -1,6 +1,0 @@
-int Tal1 = 2;
-int Tal2 = 3;
-int Tal3 = 4;
-int Result;
-
-Console.WriteLine("3 + 2 * 4 = {0}", Tal2 + Tal1 * Tal3);

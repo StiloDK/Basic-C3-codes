@@ -1,7 +1,0 @@
-Console.Write("Indtast radius på cirklen: ");
-
-double radius = Convert.ToDouble(Console.ReadLine());
-
-double areal = Math.PI * Math.Pow(radius, 2);
-
-Console.WriteLine("Arealet af cirklen er: " + areal);
