@@ -1,0 +1,3 @@
+string idag = "I dag har vi den 24. December.";
+
+Console.WriteLine("{0}", idag);
